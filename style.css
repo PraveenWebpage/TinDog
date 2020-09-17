@@ -1,0 +1,138 @@
+body {
+  font-family: "Grandstander";
+}
+
+#title {
+  background-color: #ff4c68;
+}
+
+.image {
+  padding: 10px;
+}
+
+h1 {
+  font-family: "Grandstander";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.container {
+  padding: 3% 15%;
+}
+
+.navbar {
+  margin-bottom: 20px;
+  padding-bottom: 15px;
+}
+
+.navbar-brand {
+  font-family: cursive;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-family: "Grandstander";
+  font-size: 25px;
+}
+
+.nav-link:hover {
+  background-color: pink;
+}
+
+.dowbtn {
+  margin: 10% 1.5%;
+}
+
+.imag {
+  width: 300px;
+  transform: rotate(15deg);
+}
+
+/* Feature */
+#feature {
+  padding: 7% 15%;
+  font-family: "Grandstander";
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #ef8172;
+  margin-bottom: 20px;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
+
+/* Testimonial */
+#testimonial {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  font-family: "Grandstander";
+}
+
+.test-imag {
+  margin: 20px;
+}
+
+#peb {
+  font-family: "Grandstander";
+  font-size: 20px;
+}
+
+.carousel-indicators {
+  margin: -90px;
+  padding-left: 10px;
+}
+
+/* Pricing */
+#pricing {
+  padding: 7% 15%;
+  text-align: center;
+  font-family: Grandstander;
+}
+
+#para {
+  margin-bottom: 50px;
+}
+
+#cardhead {
+  background-color: #ef8172;
+}
+
+#btnfooter {
+  background-color: #ef8172;
+}
+
+#CTA
+{
+  height:auto;
+  padding: 50px;
+  text-align: center;
+  background-color: #ff4c68;
+  font-family: Grandstander;
+  font-size: 50px;
+}
+
+.social
+{
+  padding: 23px;
+}
+
+#footer{
+  height:auto;
+  padding: 7% 15%;
+  text-align: center;
+  font-size: 30px;
+  font-family: Grandstander;
+}
